@@ -1,2 +1,2 @@
-# miggame.github.io
-h1 H5游戏集合
+# H5游戏
+基于cocos creator制作的H5小游戏
