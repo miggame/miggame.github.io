@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ball_img_diamond14_0_4",
+    "texture": "535Cs0MrNEV64AEIqyHNFy",
+    "rect": [
+      0,
+      0,
+      14,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      14
+    ]
+  }
+}
