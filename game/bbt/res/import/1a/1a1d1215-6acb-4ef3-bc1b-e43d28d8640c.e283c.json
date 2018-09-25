@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_img_ruby2",
+    "texture": "bct945mlNLJqjIAx+8KX8K",
+    "rect": [
+      29,
+      3,
+      76,
+      86
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      134,
+      96
+    ]
+  }
+}

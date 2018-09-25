@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ball_img_triangle26_0_4",
+    "texture": "17rGJGD1ZBJYZ1vHFK6ep7",
+    "rect": [
+      0,
+      0,
+      26,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      23
+    ]
+  }
+}

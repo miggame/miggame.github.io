@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ball_img_flower14_0_1",
+    "texture": "26ImjEqtFN/rSb2sBzriL1",
+    "rect": [
+      0,
+      0,
+      14,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      14
+    ]
+  }
+}
